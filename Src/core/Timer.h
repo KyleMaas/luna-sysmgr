@@ -4,7 +4,7 @@
  * A timer which calls a function either once or on a recurring basis after a given period of time elapses
  * 
  * @author Hewlett-Packard Development Company, L.P.
- * @author tyrok1
+ * @author Kyle Maas <kylemaasdev@gmail.com>
  *
  * @section LICENSE
  *

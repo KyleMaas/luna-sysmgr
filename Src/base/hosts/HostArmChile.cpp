@@ -4,7 +4,7 @@
  * Device-specific functionality for the never-released and rather mysterious Chile device(s)
  *
  * @author Hewlett-Packard Development Company, L.P.
- * @author tyrok1
+ * @author Kyle Maas <kylemaasdev@gmail.com>
  *
  * @section LICENSE
  *

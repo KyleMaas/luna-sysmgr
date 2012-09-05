@@ -4,7 +4,7 @@
  * Device-specific functionality for the never-released Opal devices
  *
  * @author Hewlett-Packard Development Company, L.P.
- * @author tyrok1
+ * @author Kyle Maaas <kylemaasdev@gmail.com>
  *
  * @section LICENSE
  *

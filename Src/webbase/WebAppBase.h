@@ -4,7 +4,7 @@
  * Base class for different types of app containers to derive from.
  *
  * @author Hewlett-Packard Development Company, L.P.
- * @author tyrok1
+ * @author Kyle Maas <kylemaasdev@gmail.com>
  *
  * @section LICENSE
  *

@@ -4,7 +4,7 @@
  * Device-specific functionality for the Castle devices (including Roadrunner)
  *
  * @author Hewlett-Packard Development Company, L.P.
- * @author tyrok1
+ * @author Kyle Maas <kylemaasdev@gmail.com>
  *
  * @section LICENSE
  *
