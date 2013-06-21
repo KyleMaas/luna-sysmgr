@@ -1,0 +1,15 @@
+<map id="AmbientLightSensor.cpp" name="AmbientLightSensor.cpp">
+<area shape="rect" id="node3" href="$AmbientLightSensor_8h.htm" title="AmbientLightSensor.h" alt="" coords="2401,237,2559,267"/>
+<area shape="rect" id="node18" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="1379,160,1504,189"/>
+<area shape="rect" id="node30" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1915,83,2040,112"/>
+<area shape="rect" id="node35" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="2795,160,2931,189"/>
+<area shape="rect" id="node57" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="2807,237,2927,267"/>
+<area shape="rect" id="node70" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="1680,160,1819,189"/>
+<area shape="rect" id="node75" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="981,160,1093,189"/>
+<area shape="rect" id="node103" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="581,237,733,267"/>
+<area shape="rect" id="node112" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="304,237,400,267"/>
+<area shape="rect" id="node47" href="$DisplayStates_8h.htm" title="DisplayStates.h" alt="" coords="3001,237,3119,267"/>
+<area shape="rect" id="node78" href="$Window_8h.htm" title="Window.h" alt="" coords="475,237,557,267"/>
+<area shape="rect" id="node91" href="$HostWindowData_8h.htm" title="HostWindowData.h" alt="" coords="859,237,1000,267"/>
+<area shape="rect" id="node96" href="$InputClient_8h.htm" title="InputClient.h" alt="" coords="131,237,229,267"/>
+</map>

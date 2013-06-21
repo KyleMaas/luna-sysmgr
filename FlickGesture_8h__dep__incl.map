@@ -1,0 +1,26 @@
+<map id="FlickGesture.h" name="FlickGesture.h">
+<area shape="rect" id="node3" href="$FlickGestureRecognizer_8cpp.htm" title="FlickGestureRecognizer.cpp" alt="" coords="5,83,203,112"/>
+<area shape="rect" id="node5" href="$WebosTapGestureRecognizer_8cpp.htm" title="WebosTapGestureRecognizer.cpp" alt="" coords="227,83,464,112"/>
+<area shape="rect" id="node7" href="$WindowServer_8cpp.htm" title="WindowServer.cpp" alt="" coords="488,83,627,112"/>
+<area shape="rect" id="node9" href="$IMEView_8cpp.htm" title="IMEView.cpp" alt="" coords="651,83,752,112"/>
+<area shape="rect" id="node11" href="$CardWindow_8cpp.htm" title="CardWindow.cpp" alt="" coords="776,83,904,112"/>
+<area shape="rect" id="node13" href="$CardWindowManager_8cpp.htm" title="CardWindowManager.cpp" alt="" coords="928,83,1115,112"/>
+<area shape="rect" id="node15" href="$DockModeMenuManager_8cpp.htm" title="DockModeMenuManager.cpp" alt="" coords="1139,83,1347,112"/>
+<area shape="rect" id="node17" href="$DockModeWindow_8cpp.htm" title="DockModeWindow.cpp" alt="" coords="1371,83,1536,112"/>
+<area shape="rect" id="node19" href="$EmergencyWindowManager_8cpp.htm" title="EmergencyWindowManager.cpp" alt="" coords="1560,83,1787,112"/>
+<area shape="rect" id="node21" href="$GraphicsItemContainer_8cpp.htm" title="GraphicsItemContainer.cpp" alt="" coords="1811,83,2005,112"/>
+<area shape="rect" id="node23" href="$dimensionslauncher_8cpp.htm" title="dimensionslauncher.cpp" alt="" coords="2029,83,2203,112"/>
+<area shape="rect" id="node25" href="$pagetab_8cpp.htm" title="pagetab.cpp" alt="" coords="2227,83,2325,112"/>
+<area shape="rect" id="node27" href="$pagetabbar_8cpp.htm" title="pagetabbar.cpp" alt="" coords="2349,83,2467,112"/>
+<area shape="rect" id="node29" href="$quicklaunchbar_8cpp.htm" title="quicklaunchbar.cpp" alt="" coords="2491,83,2632,112"/>
+<area shape="rect" id="node31" href="$colorroundrectbutton_8cpp.htm" title="colorroundrectbutton.cpp" alt="" coords="2656,83,2832,112"/>
+<area shape="rect" id="node33" href="$pixbutton_8cpp.htm" title="pixbutton.cpp" alt="" coords="2856,83,2960,112"/>
+<area shape="rect" id="node35" href="$pixbutton2state_8cpp.htm" title="pixbutton2state.cpp" alt="" coords="2984,83,3125,112"/>
+<area shape="rect" id="node37" href="$pixbuttonsimple_8cpp.htm" title="pixbuttonsimple.cpp" alt="" coords="3149,83,3293,112"/>
+<area shape="rect" id="node39" href="$icon_8cpp.htm" title="icon.cpp" alt="" coords="3317,83,3392,112"/>
+<area shape="rect" id="node41" href="$page_8cpp.htm" title="page.cpp" alt="" coords="3416,83,3496,112"/>
+<area shape="rect" id="node43" href="$OverlayWindowManager_8cpp.htm" title="OverlayWindowManager.cpp" alt="" coords="3520,83,3723,112"/>
+<area shape="rect" id="node45" href="$DashboardWindowContainer_8cpp.htm" title="DashboardWindowContainer.cpp" alt="" coords="3747,83,3976,112"/>
+<area shape="rect" id="node47" href="$DashboardWindowManager_8cpp.htm" title="DashboardWindowManager.cpp" alt="" coords="4000,83,4224,112"/>
+<area shape="rect" id="node49" href="$MenuWindowManager_8cpp.htm" title="MenuWindowManager.cpp" alt="" coords="4248,83,4437,112"/>
+</map>

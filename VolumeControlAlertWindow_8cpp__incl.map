@@ -1,0 +1,21 @@
+<map id="VolumeControlAlertWindow.cpp" name="VolumeControlAlertWindow.cpp">
+<area shape="rect" id="node5" href="$VolumeControlAlertWindow_8h.htm" title="VolumeControlAlertWindow.h" alt="" coords="1952,160,2155,189"/>
+<area shape="rect" id="node33" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1033,237,1159,267"/>
+<area shape="rect" id="node108" href="$NativeAlertManager_8h.htm" title="NativeAlertManager.h" alt="" coords="2269,83,2427,112"/>
+<area shape="rect" id="node117" href="$SoundPlayerPool_8h.htm" title="SoundPlayerPool.h" alt="" coords="3205,315,3347,344"/>
+<area shape="rect" id="node130" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="3313,237,3468,267"/>
+<area shape="rect" id="node8" href="$AlertWindow_8h.htm" title="AlertWindow.h" alt="" coords="2040,237,2152,267"/>
+<area shape="rect" id="node13" href="$Window_8h.htm" title="Window.h" alt="" coords="2251,392,2333,421"/>
+<area shape="rect" id="node20" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1957,315,2069,344"/>
+<area shape="rect" id="node39" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="1501,315,1637,344"/>
+<area shape="rect" id="node65" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="1712,315,1832,344"/>
+<area shape="rect" id="node75" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2357,392,2496,421"/>
+<area shape="rect" id="node79" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="275,315,427,344"/>
+<area shape="rect" id="node84" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="104,315,200,344"/>
+<area shape="rect" id="node48" href="$AmbientLightSensor_8h.htm" title="AmbientLightSensor.h" alt="" coords="2931,392,3088,421"/>
+<area shape="rect" id="node54" href="$DisplayStates_8h.htm" title="DisplayStates.h" alt="" coords="1192,392,1309,421"/>
+<area shape="rect" id="node125" href="$SoundPlayerDummy_8h.htm" title="SoundPlayerDummy.h" alt="" coords="3416,392,3573,421"/>
+<area shape="rect" id="node146" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="3845,392,4019,421"/>
+<area shape="rect" id="node152" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="2773,392,2907,421"/>
+<area shape="rect" id="node159" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2427,315,2520,344"/>
+</map>

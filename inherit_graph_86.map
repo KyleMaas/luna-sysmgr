@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQState.htm" title="QState" alt="" coords="5,245,72,275"/>
+<area shape="rect" id="node3" href="$classCardWindowManagerState.htm" title="CardWindowManagerState" alt="" coords="121,165,313,195"/>
+<area shape="rect" id="node17" href="$classDWMStateBase.htm" title="DWMStateBase" alt="" coords="156,352,279,381"/>
+<area shape="rect" id="node5" href="$classFocusState.htm" title="FocusState" alt="" coords="395,5,485,35"/>
+<area shape="rect" id="node7" href="$classLoadingState.htm" title="LoadingState" alt="" coords="387,59,493,88"/>
+<area shape="rect" id="node9" href="$classMaximizeState.htm" title="MaximizeState" alt="" coords="383,112,497,141"/>
+<area shape="rect" id="node11" href="$classMinimizeState.htm" title="MinimizeState" alt="" coords="385,165,495,195"/>
+<area shape="rect" id="node13" href="$classPreparingState.htm" title="PreparingState" alt="" coords="381,219,499,248"/>
+<area shape="rect" id="node15" href="$classReorderState.htm" title="ReorderState" alt="" coords="387,272,493,301"/>
+<area shape="rect" id="node19" href="$classDWMStateAlertOpen.htm" title="DWMStateAlertOpen" alt="" coords="363,325,517,355"/>
+<area shape="rect" id="node21" href="$classDWMStateClosed.htm" title="DWMStateClosed" alt="" coords="373,379,507,408"/>
+<area shape="rect" id="node23" href="$classDWMStateOpen.htm" title="DWMStateOpen" alt="" coords="377,432,503,461"/>
+</map>

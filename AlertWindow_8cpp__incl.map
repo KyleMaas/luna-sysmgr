@@ -1,0 +1,19 @@
+<map id="AlertWindow.cpp" name="AlertWindow.cpp">
+<area shape="rect" id="node19" href="$AlertWindow_8h.htm" title="AlertWindow.h" alt="" coords="1279,83,1391,112"/>
+<area shape="rect" id="node36" href="$HostWindowData_8h.htm" title="HostWindowData.h" alt="" coords="1244,237,1385,267"/>
+<area shape="rect" id="node45" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="768,83,925,112"/>
+<area shape="rect" id="node80" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1847,160,2020,189"/>
+<area shape="rect" id="node98" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="3181,160,3368,189"/>
+<area shape="rect" id="node104" href="$SoundPlayerPool_8h.htm" title="SoundPlayerPool.h" alt="" coords="3372,237,3513,267"/>
+<area shape="rect" id="node116" href="$PersistentWindowCache_8h.htm" title="PersistentWindowCache.h" alt="" coords="825,160,1012,189"/>
+<area shape="rect" id="node124" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="2544,160,2653,189"/>
+<area shape="rect" id="node138" href="$LsmUtils_8h.htm" title="LsmUtils.h" alt="" coords="1785,237,1871,267"/>
+<area shape="rect" id="node142" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="1415,83,1561,112"/>
+<area shape="rect" id="node145" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="1087,160,1204,189"/>
+<area shape="rect" id="node155" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="2339,83,2464,112"/>
+<area shape="rect" id="node24" href="$Window_8h.htm" title="Window.h" alt="" coords="1036,237,1119,267"/>
+<area shape="rect" id="node31" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1372,160,1484,189"/>
+<area shape="rect" id="node61" href="$MimeSystem_8h.htm" title="MimeSystem.h" alt="" coords="329,160,441,189"/>
+<area shape="rect" id="node69" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="225,237,404,267"/>
+<area shape="rect" id="node87" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="2663,237,2772,267"/>
+</map>

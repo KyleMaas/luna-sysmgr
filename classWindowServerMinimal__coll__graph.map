@@ -1,0 +1,17 @@
+<map id="WindowServerMinimal" name="WindowServerMinimal">
+<area shape="rect" id="node2" href="$classWindowServer.htm" title="WindowServer" alt="" coords="781,469,896,499"/>
+<area shape="rect" id="node4" href="$classQGraphicsView.htm" title="QGraphicsView" alt="" coords="363,13,483,43"/>
+<area shape="rect" id="node6" href="$classMetaKeyManager.htm" title="MetaKeyManager" alt="" coords="356,120,489,149"/>
+<area shape="rect" id="node8" href="$classQObject.htm" title="QObject" alt="" coords="35,120,107,149"/>
+<area shape="rect" id="node45" href="$classDisplayManager.htm" title="DisplayManager" alt="" coords="360,173,485,203"/>
+<area shape="rect" id="node52" href="$classCoreNaviManager.htm" title="CoreNaviManager" alt="" coords="353,67,492,96"/>
+<area shape="rect" id="node12" href="$classUiRootItem.htm" title="UiRootItem" alt="" coords="377,296,468,325"/>
+<area shape="rect" id="node14" href="$classQGraphicsItem.htm" title="QGraphicsItem" alt="" coords="12,227,129,256"/>
+<area shape="rect" id="node32" href="$classWindowManagerBase.htm" title="WindowManagerBase" alt="" coords="343,349,503,379"/>
+<area shape="rect" id="node18" href="$classReticleItem.htm" title="ReticleItem" alt="" coords="377,456,468,485"/>
+<area shape="rect" id="node20" href="$classQGraphicsObject.htm" title="QGraphicsObject" alt="" coords="5,423,136,452"/>
+<area shape="rect" id="node40" href="$classProgressAnimation.htm" title="ProgressAnimation" alt="" coords="352,403,493,432"/>
+<area shape="rect" id="node26" href="$classint.htm" title="int" alt="" coords="404,624,441,653"/>
+<area shape="rect" id="node35" href="$classKeyNavigator.htm" title="KeyNavigator" alt="" coords="17,356,124,385"/>
+<area shape="rect" id="node48" href="$classInputManager.htm" title="InputManager" alt="" coords="368,944,477,973"/>
+</map>

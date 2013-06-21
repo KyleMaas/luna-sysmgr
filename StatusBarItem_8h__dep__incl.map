@@ -1,0 +1,15 @@
+<map id="StatusBarItem.h" name="StatusBarItem.h">
+<area shape="rect" id="node3" href="$StatusBarTitle_8h.htm" title="StatusBarTitle.h" alt="" coords="809,83,929,112"/>
+<area shape="rect" id="node5" href="$StatusBar_8cpp.htm" title="StatusBar.cpp" alt="" coords="509,160,619,189"/>
+<area shape="rect" id="node9" href="$StatusBarClock_8h.htm" title="StatusBarClock.h" alt="" coords="84,83,212,112"/>
+<area shape="rect" id="node14" href="$StatusBarBattery_8h.htm" title="StatusBarBattery.h" alt="" coords="236,83,375,112"/>
+<area shape="rect" id="node19" href="$StatusBarInfo_8h.htm" title="StatusBarInfo.h" alt="" coords="399,83,516,112"/>
+<area shape="rect" id="node25" href="$StatusBarNotificationArea_8h.htm" title="StatusBarNotificationArea.h" alt="" coords="591,83,785,112"/>
+<area shape="rect" id="node30" href="$StatusBarItemGroup_8h.htm" title="StatusBarItemGroup.h" alt="" coords="953,83,1113,112"/>
+<area shape="rect" id="node33" href="$StatusBarItemGroup_8cpp.htm" title="StatusBarItemGroup.cpp" alt="" coords="1044,160,1217,189"/>
+<area shape="rect" id="node7" href="$StatusBarTitle_8cpp.htm" title="StatusBarTitle.cpp" alt="" coords="875,160,1011,189"/>
+<area shape="rect" id="node12" href="$StatusBarClock_8cpp.htm" title="StatusBarClock.cpp" alt="" coords="5,160,149,189"/>
+<area shape="rect" id="node17" href="$StatusBarBattery_8cpp.htm" title="StatusBarBattery.cpp" alt="" coords="173,160,328,189"/>
+<area shape="rect" id="node22" href="$StatusBarInfo_8cpp.htm" title="StatusBarInfo.cpp" alt="" coords="352,160,485,189"/>
+<area shape="rect" id="node28" href="$StatusBarNotificationArea_8cpp.htm" title="StatusBarNotificationArea.cpp" alt="" coords="643,160,851,189"/>
+</map>

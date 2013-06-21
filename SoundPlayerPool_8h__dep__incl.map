@@ -1,0 +1,24 @@
+<map id="SoundPlayerPool.h" name="SoundPlayerPool.h">
+<area shape="rect" id="node3" href="$SystemUiController_8cpp.htm" title="SystemUiController.cpp" alt="" coords="483,83,651,112"/>
+<area shape="rect" id="node5" href="$WindowServer_8cpp.htm" title="WindowServer.cpp" alt="" coords="675,83,813,112"/>
+<area shape="rect" id="node7" href="$SysmgrIMEDataInterface_8cpp.htm" title="SysmgrIMEDataInterface.cpp" alt="" coords="5,160,211,189"/>
+<area shape="rect" id="node9" href="$CardWindowManager_8cpp.htm" title="CardWindowManager.cpp" alt="" coords="1200,83,1387,112"/>
+<area shape="rect" id="node11" href="$CardWindowManagerStates_8cpp.htm" title="CardWindowManagerStates.cpp" alt="" coords="1411,83,1637,112"/>
+<area shape="rect" id="node13" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="888,83,1075,112"/>
+<area shape="rect" id="node22" href="$AlertWindow_8cpp.htm" title="AlertWindow.cpp" alt="" coords="1333,160,1459,189"/>
+<area shape="rect" id="node24" href="$BannerMessageHandler_8cpp.htm" title="BannerMessageHandler.cpp" alt="" coords="1483,160,1685,189"/>
+<area shape="rect" id="node42" href="$VolumeControlAlertWindow_8cpp.htm" title="VolumeControlAlertWindow.cpp" alt="" coords="1661,83,1880,112"/>
+<area shape="rect" id="node44" href="$StatusBarBattery_8cpp.htm" title="StatusBarBattery.cpp" alt="" coords="1904,83,2059,112"/>
+<area shape="rect" id="node46" href="$SoundPlayer_8cpp.htm" title="SoundPlayer.cpp" alt="" coords="2083,83,2211,112"/>
+<area shape="rect" id="node48" href="$SoundPlayerPool_8cpp.htm" title="SoundPlayerPool.cpp" alt="" coords="2235,83,2389,112"/>
+<area shape="rect" id="node15" href="$KeyLocationRecorder_8cpp.htm" title="KeyLocationRecorder.cpp" alt="" coords="792,160,976,189"/>
+<area shape="rect" id="node18" href="$CardHostWindow_8cpp.htm" title="CardHostWindow.cpp" alt="" coords="1000,160,1157,189"/>
+<area shape="rect" id="node20" href="$LockWindow_8cpp.htm" title="LockWindow.cpp" alt="" coords="1181,160,1309,189"/>
+<area shape="rect" id="node26" href="$BannerWindow_8h.htm" title="BannerWindow.h" alt="" coords="235,160,363,189"/>
+<area shape="rect" id="node32" href="$StatusBarNotificationArea_8h.htm" title="StatusBarNotificationArea.h" alt="" coords="387,160,581,189"/>
+<area shape="rect" id="node38" href="$WebAppMgrProxy_8cpp.htm" title="WebAppMgrProxy.cpp" alt="" coords="605,160,768,189"/>
+<area shape="rect" id="node28" href="$BannerWindow_8cpp.htm" title="BannerWindow.cpp" alt="" coords="16,237,160,267"/>
+<area shape="rect" id="node30" href="$DashboardWindowManager_8cpp.htm" title="DashboardWindowManager.cpp" alt="" coords="184,237,408,267"/>
+<area shape="rect" id="node34" href="$StatusBar_8cpp.htm" title="StatusBar.cpp" alt="" coords="432,237,541,267"/>
+<area shape="rect" id="node36" href="$StatusBarNotificationArea_8cpp.htm" title="StatusBarNotificationArea.cpp" alt="" coords="565,237,773,267"/>
+</map>

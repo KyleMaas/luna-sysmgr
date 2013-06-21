@@ -1,0 +1,22 @@
+<map id="SystemService.cpp" name="SystemService.cpp">
+<area shape="rect" id="node27" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1355,237,1528,267"/>
+<area shape="rect" id="node55" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="1236,160,1393,189"/>
+<area shape="rect" id="node80" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="1663,237,1809,267"/>
+<area shape="rect" id="node89" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="2191,237,2327,267"/>
+<area shape="rect" id="node103" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="2892,237,3017,267"/>
+<area shape="rect" id="node109" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2144,160,2299,189"/>
+<area shape="rect" id="node117" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="2323,160,2448,189"/>
+<area shape="rect" id="node124" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="3261,160,3408,189"/>
+<area shape="rect" id="node127" href="$MemoryMonitor_8h.htm" title="MemoryMonitor.h" alt="" coords="1985,237,2116,267"/>
+<area shape="rect" id="node135" href="$Security_8h.htm" title="Security.h" alt="" coords="3041,237,3124,267"/>
+<area shape="rect" id="node143" href="$EASPolicyManager_8h.htm" title="EASPolicyManager.h" alt="" coords="3148,237,3303,267"/>
+<area shape="rect" id="node150" href="$StatusBarServicesConnector_8h.htm" title="StatusBarServicesConnector.h" alt="" coords="2604,237,2817,267"/>
+<area shape="rect" id="node155" href="$IMEController_8h.htm" title="IMEController.h" alt="" coords="2472,160,2592,189"/>
+<area shape="rect" id="node158" href="$VirtualKeyboardPreferences_8h.htm" title="VirtualKeyboardPreferences.h" alt="" coords="195,315,403,344"/>
+<area shape="rect" id="node162" href="$SingleClickGestureRecognizer_8h.htm" title="SingleClickGestureRecognizer.h" alt="" coords="3432,160,3656,189"/>
+<area shape="rect" id="node165" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="2415,83,2529,112"/>
+<area shape="rect" id="node37" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="1200,315,1309,344"/>
+<area shape="rect" id="node45" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="592,315,771,344"/>
+<area shape="rect" id="node67" href="$MimeSystem_8h.htm" title="MimeSystem.h" alt="" coords="904,237,1016,267"/>
+<area shape="rect" id="node86" href="$AnimationEquations_8h.htm" title="AnimationEquations.h" alt="" coords="1955,315,2112,344"/>
+</map>

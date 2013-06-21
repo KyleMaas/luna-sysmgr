@@ -1,0 +1,20 @@
+<map id="BannerWindow.cpp" name="BannerWindow.cpp">
+<area shape="rect" id="node11" href="$ActiveCallBanner_8h.htm" title="ActiveCallBanner.h" alt="" coords="673,237,814,267"/>
+<area shape="rect" id="node24" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="2310,160,2484,189"/>
+<area shape="rect" id="node54" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="516,83,673,112"/>
+<area shape="rect" id="node79" href="$BannerWindow_8h.htm" title="BannerWindow.h" alt="" coords="1192,160,1320,189"/>
+<area shape="rect" id="node95" href="$DashboardWindow_8h.htm" title="DashboardWindow.h" alt="" coords="1497,83,1649,112"/>
+<area shape="rect" id="node106" href="$DashboardWindowContainer_8h.htm" title="DashboardWindowContainer.h" alt="" coords="3385,160,3598,189"/>
+<area shape="rect" id="node119" href="$DashboardWindowManager_8h.htm" title="DashboardWindowManager.h" alt="" coords="1648,160,1856,189"/>
+<area shape="rect" id="node132" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="2329,237,2438,267"/>
+<area shape="rect" id="node144" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="1276,83,1422,112"/>
+<area shape="rect" id="node148" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="3750,83,3876,112"/>
+<area shape="rect" id="node160" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1930,83,2085,112"/>
+<area shape="rect" id="node168" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="3116,237,3241,267"/>
+<area shape="rect" id="node34" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="2513,237,2622,267"/>
+<area shape="rect" id="node43" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="470,237,649,267"/>
+<area shape="rect" id="node66" href="$MimeSystem_8h.htm" title="MimeSystem.h" alt="" coords="442,160,554,189"/>
+<area shape="rect" id="node84" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="2068,237,2254,267"/>
+<area shape="rect" id="node89" href="$Window_8h.htm" title="Window.h" alt="" coords="1244,237,1326,267"/>
+<area shape="rect" id="node100" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1488,160,1600,189"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="DashboardWindowManagerStates.cpp" name="DashboardWindowManagerStates.cpp">
+<area shape="rect" id="node5" href="$DashboardWindowManagerStates_8h.htm" title="DashboardWindowManagerStates.h" alt="" coords="61,83,309,112"/>
+<area shape="rect" id="node14" href="$AlertWindow_8h.htm" title="AlertWindow.h" alt="" coords="3289,160,3401,189"/>
+<area shape="rect" id="node33" href="$DashboardWindowManager_8h.htm" title="DashboardWindowManager.h" alt="" coords="776,160,984,189"/>
+<area shape="rect" id="node46" href="$GraphicsItemContainer_8h.htm" title="GraphicsItemContainer.h" alt="" coords="491,237,669,267"/>
+<area shape="rect" id="node66" href="$DashboardWindowContainer_8h.htm" title="DashboardWindowContainer.h" alt="" coords="1059,160,1272,189"/>
+<area shape="rect" id="node90" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1760,83,1915,112"/>
+<area shape="rect" id="node126" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="2732,83,2887,112"/>
+<area shape="rect" id="node19" href="$Window_8h.htm" title="Window.h" alt="" coords="3071,315,3153,344"/>
+<area shape="rect" id="node26" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="3013,237,3125,267"/>
+<area shape="rect" id="node39" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="1109,237,1280,267"/>
+<area shape="rect" id="node81" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2496,237,2635,267"/>
+<area shape="rect" id="node107" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="2163,160,2336,189"/>
+<area shape="rect" id="node113" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="915,315,1048,344"/>
+<area shape="rect" id="node119" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2763,160,2856,189"/>
+<area shape="rect" id="node129" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="2613,160,2739,189"/>
+</map>

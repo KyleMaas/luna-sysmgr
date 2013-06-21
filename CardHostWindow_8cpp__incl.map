@@ -1,0 +1,20 @@
+<map id="CardHostWindow.cpp" name="CardHostWindow.cpp">
+<area shape="rect" id="node5" href="$CardHostWindow_8h.htm" title="CardHostWindow.h" alt="" coords="480,83,621,112"/>
+<area shape="rect" id="node15" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1304,237,1459,267"/>
+<area shape="rect" id="node79" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="2012,315,2159,344"/>
+<area shape="rect" id="node87" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="2604,315,2791,344"/>
+<area shape="rect" id="node101" href="$CardTransition_8h.htm" title="CardTransition.h" alt="" coords="316,315,441,344"/>
+<area shape="rect" id="node112" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="2183,315,2300,344"/>
+<area shape="rect" id="node127" href="$CardDropShadowEffect_8h.htm" title="CardDropShadowEffect.h" alt="" coords="2788,237,2969,267"/>
+<area shape="rect" id="node138" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="761,315,887,344"/>
+<area shape="rect" id="node147" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="668,237,823,267"/>
+<area shape="rect" id="node152" href="$AppDirectRenderingArbitrator_8h.htm" title="AppDirectRenderingArbitrator.h" alt="" coords="1663,160,1881,189"/>
+<area shape="rect" id="node8" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="493,160,608,189"/>
+<area shape="rect" id="node70" href="$AnimationEquations_8h.htm" title="AnimationEquations.h" alt="" coords="276,392,433,421"/>
+<area shape="rect" id="node34" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1628,392,1801,421"/>
+<area shape="rect" id="node45" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="1471,392,1604,421"/>
+<area shape="rect" id="node50" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="761,392,900,421"/>
+<area shape="rect" id="node53" href="$Window_8h.htm" title="Window.h" alt="" coords="1927,392,2009,421"/>
+<area shape="rect" id="node63" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="1591,315,1684,344"/>
+<area shape="rect" id="node94" href="$SoundPlayerPool_8h.htm" title="SoundPlayerPool.h" alt="" coords="2649,392,2791,421"/>
+</map>

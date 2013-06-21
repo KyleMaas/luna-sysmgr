@@ -1,0 +1,22 @@
+<map id="DockModeMenuManager.cpp" name="DockModeMenuManager.cpp">
+<area shape="rect" id="node19" href="$PersistentWindowCache_8h.htm" title="PersistentWindowCache.h" alt="" coords="31,237,217,267"/>
+<area shape="rect" id="node28" href="$Window_8h.htm" title="Window.h" alt="" coords="1119,315,1201,344"/>
+<area shape="rect" id="node32" href="$RoundedCorners_8h.htm" title="RoundedCorners.h" alt="" coords="3433,160,3575,189"/>
+<area shape="rect" id="node39" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1117,160,1272,189"/>
+<area shape="rect" id="node73" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2503,237,2596,267"/>
+<area shape="rect" id="node78" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="2135,160,2281,189"/>
+<area shape="rect" id="node100" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="3069,160,3195,189"/>
+<area shape="rect" id="node106" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="2620,237,2732,267"/>
+<area shape="rect" id="node119" href="$SingleClickGesture_8h.htm" title="SingleClickGesture.h" alt="" coords="4180,83,4332,112"/>
+<area shape="rect" id="node125" href="$FlickGesture_8h.htm" title="FlickGesture.h" alt="" coords="3895,83,4004,112"/>
+<area shape="rect" id="node133" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="3169,83,3324,112"/>
+<area shape="rect" id="node139" href="$DockModeMenuManager_8h.htm" title="DockModeMenuManager.h" alt="" coords="3649,160,3841,189"/>
+<area shape="rect" id="node142" href="$DockModeAppMenuContainer_8h.htm" title="DockModeAppMenuContainer.h" alt="" coords="3569,237,3791,267"/>
+<area shape="rect" id="node146" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="2932,237,3140,267"/>
+<area shape="rect" id="node153" href="$DockModeLaunchPoint_8h.htm" title="DockModeLaunchPoint.h" alt="" coords="1799,160,1977,189"/>
+<area shape="rect" id="node159" href="$WebosTapAndHoldGesture_8h.htm" title="WebosTapAndHoldGesture.h" alt="" coords="4151,160,4356,189"/>
+<area shape="rect" id="node57" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1108,237,1281,267"/>
+<area shape="rect" id="node64" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="1276,315,1409,344"/>
+<area shape="rect" id="node67" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2852,315,2991,344"/>
+<area shape="rect" id="node85" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="1601,237,1719,267"/>
+</map>

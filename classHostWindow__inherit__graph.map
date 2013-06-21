@@ -1,0 +1,16 @@
+<map id="HostWindow" name="HostWindow">
+<area shape="rect" id="node11" href="$classAlertWindow.htm" title="AlertWindow" alt="" coords="200,237,301,267"/>
+<area shape="rect" id="node17" href="$classCardWindow.htm" title="CardWindow" alt="" coords="385,237,487,267"/>
+<area shape="rect" id="node27" href="$classDashboardWindow.htm" title="DashboardWindow" alt="" coords="511,237,652,267"/>
+<area shape="rect" id="node29" href="$classMenuWindow.htm" title="MenuWindow" alt="" coords="676,237,783,267"/>
+<area shape="rect" id="node2" href="$classWindow.htm" title="Window" alt="" coords="335,83,407,112"/>
+<area shape="rect" id="node4" href="$classQGraphicsObject.htm" title="QGraphicsObject" alt="" coords="305,5,436,35"/>
+<area shape="rect" id="node6" href="$classPIpcChannelListener.htm" title="PIpcChannelListener" alt="" coords="431,83,585,112"/>
+<area shape="rect" id="node8" href="$classInputClient.htm" title="InputClient" alt="" coords="609,83,697,112"/>
+<area shape="rect" id="node13" href="$classQmlAlertWindow.htm" title="QmlAlertWindow" alt="" coords="5,315,131,344"/>
+<area shape="rect" id="node15" href="$classVolumeControlAlertWindow.htm" title="VolumeControlAlertWindow" alt="" coords="155,315,347,344"/>
+<area shape="rect" id="node19" href="$classCardHostWindow.htm" title="CardHostWindow" alt="" coords="371,315,501,344"/>
+<area shape="rect" id="node23" href="$classDockModeWindow.htm" title="DockModeWindow" alt="" coords="529,315,668,344"/>
+<area shape="rect" id="node21" href="$classQtHostWindow.htm" title="QtHostWindow" alt="" coords="376,392,491,421"/>
+<area shape="rect" id="node25" href="$classDockModeClockWindow.htm" title="DockModeClockWindow" alt="" coords="515,392,688,421"/>
+</map>

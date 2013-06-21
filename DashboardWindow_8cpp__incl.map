@@ -1,0 +1,12 @@
+<map id="DashboardWindow.cpp" name="DashboardWindow.cpp">
+<area shape="rect" id="node5" href="$DashboardWindow_8h.htm" title="DashboardWindow.h" alt="" coords="269,83,421,112"/>
+<area shape="rect" id="node52" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="1745,160,1863,189"/>
+<area shape="rect" id="node65" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1548,160,1721,189"/>
+<area shape="rect" id="node94" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="819,83,965,112"/>
+<area shape="rect" id="node10" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="289,160,401,189"/>
+<area shape="rect" id="node13" href="$Window_8h.htm" title="Window.h" alt="" coords="1576,237,1659,267"/>
+<area shape="rect" id="node29" href="$HostWindowData_8h.htm" title="HostWindowData.h" alt="" coords="192,237,333,267"/>
+<area shape="rect" id="node36" href="$InputClient_8h.htm" title="InputClient.h" alt="" coords="1403,237,1501,267"/>
+<area shape="rect" id="node73" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="1269,237,1379,267"/>
+<area shape="rect" id="node82" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="1899,237,2077,267"/>
+</map>

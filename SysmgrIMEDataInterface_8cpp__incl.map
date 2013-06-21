@@ -1,0 +1,16 @@
+<map id="SysmgrIMEDataInterface.cpp" name="SysmgrIMEDataInterface.cpp">
+<area shape="rect" id="node3" href="$SysmgrIMEDataInterface_8h.htm" title="SysmgrIMEDataInterface.h" alt="" coords="152,160,341,189"/>
+<area shape="rect" id="node21" href="$IMEController_8h.htm" title="IMEController.h" alt="" coords="1597,83,1717,112"/>
+<area shape="rect" id="node29" href="$VirtualKeyboardPreferences_8h.htm" title="VirtualKeyboardPreferences.h" alt="" coords="548,83,756,112"/>
+<area shape="rect" id="node38" href="$SoundPlayerPool_8h.htm" title="SoundPlayerPool.h" alt="" coords="1179,160,1320,189"/>
+<area shape="rect" id="node55" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2335,83,2489,112"/>
+<area shape="rect" id="node101" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="1088,83,1197,112"/>
+<area shape="rect" id="node112" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="1345,83,1532,112"/>
+<area shape="rect" id="node119" href="$BannerMessageEventFactory_8h.htm" title="BannerMessageEventFactory.h" alt="" coords="1825,237,2044,267"/>
+<area shape="rect" id="node50" href="$SoundPlayerDummy_8h.htm" title="SoundPlayerDummy.h" alt="" coords="1431,237,1588,267"/>
+<area shape="rect" id="node72" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1797,160,1971,189"/>
+<area shape="rect" id="node79" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="3224,160,3357,189"/>
+<area shape="rect" id="node84" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2971,237,3109,267"/>
+<area shape="rect" id="node87" href="$Window_8h.htm" title="Window.h" alt="" coords="2864,237,2947,267"/>
+<area shape="rect" id="node94" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2955,160,3048,189"/>
+</map>

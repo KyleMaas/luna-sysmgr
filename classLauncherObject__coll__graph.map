@@ -1,0 +1,13 @@
+<map id="LauncherObject" name="LauncherObject">
+<area shape="rect" id="node42" href="$classVirtualCamera.htm" title="VirtualCamera" alt="" coords="1991,2104,2100,2133"/>
+<area shape="rect" id="node2" href="$classThingPaintable.htm" title="ThingPaintable" alt="" coords="645,2223,760,2252"/>
+<area shape="rect" id="node59" href="$classIconBase.htm" title="IconBase" alt="" coords="1204,1739,1284,1768"/>
+<area shape="rect" id="node4" href="$classThing.htm" title="Thing" alt="" coords="321,2347,380,2376"/>
+<area shape="rect" id="node6" href="$classQGraphicsObject.htm" title="QGraphicsObject" alt="" coords="9,2320,140,2349"/>
+<area shape="rect" id="node14" href="$classint.htm" title="int" alt="" coords="332,2275,369,2304"/>
+<area shape="rect" id="node16" href="$classGroupAnchorItem.htm" title="GroupAnchorItem" alt="" coords="1177,617,1311,647"/>
+<area shape="rect" id="node18" href="$classQObject.htm" title="QObject" alt="" coords="667,125,739,155"/>
+<area shape="rect" id="node20" href="$classQGraphicsItemGroup.htm" title="QGraphicsItemGroup" alt="" coords="625,313,780,343"/>
+<area shape="rect" id="node29" href="$classPageMovementControl.htm" title="PageMovementControl" alt="" coords="1161,807,1327,836"/>
+<area shape="rect" id="node31" href="$classQStateMachine.htm" title="QStateMachine" alt="" coords="643,549,763,579"/>
+</map>

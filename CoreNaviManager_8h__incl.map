@@ -1,0 +1,14 @@
+<map id="CoreNaviManager.h" name="CoreNaviManager.h">
+<area shape="rect" id="node7" href="$CoreNaviLeds_8h.htm" title="CoreNaviLeds.h" alt="" coords="311,237,433,267"/>
+<area shape="rect" id="node28" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="785,83,921,112"/>
+<area shape="rect" id="node39" href="$AmbientLightSensor_8h.htm" title="AmbientLightSensor.h" alt="" coords="963,160,1120,189"/>
+<area shape="rect" id="node58" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1853,83,2008,112"/>
+<area shape="rect" id="node46" href="$DisplayStates_8h.htm" title="DisplayStates.h" alt="" coords="627,160,744,189"/>
+<area shape="rect" id="node75" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="2264,160,2437,189"/>
+<area shape="rect" id="node102" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="1435,160,1568,189"/>
+<area shape="rect" id="node107" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2659,237,2797,267"/>
+<area shape="rect" id="node112" href="$Window_8h.htm" title="Window.h" alt="" coords="2821,237,2904,267"/>
+<area shape="rect" id="node126" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2911,160,3004,189"/>
+<area shape="rect" id="node83" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="1688,237,1797,267"/>
+<area shape="rect" id="node94" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="2355,237,2533,267"/>
+</map>

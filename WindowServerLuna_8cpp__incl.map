@@ -1,0 +1,30 @@
+<map id="WindowServerLuna.cpp" name="WindowServerLuna.cpp">
+<area shape="rect" id="node5" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="1191,83,1345,112"/>
+<area shape="rect" id="node43" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="2811,160,2981,189"/>
+<area shape="rect" id="node49" href="$UiNavigationController_8h.htm" title="UiNavigationController.h" alt="" coords="2757,237,2931,267"/>
+<area shape="rect" id="node52" href="$CardWindowManager_8h.htm" title="CardWindowManager.h" alt="" coords="3151,83,3321,112"/>
+<area shape="rect" id="node59" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="1409,83,1524,112"/>
+<area shape="rect" id="node63" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="277,160,432,189"/>
+<area shape="rect" id="node72" href="$DashboardWindowManager_8h.htm" title="DashboardWindowManager.h" alt="" coords="2217,83,2425,112"/>
+<area shape="rect" id="node78" href="$EmergencyWindowManager_8h.htm" title="EmergencyWindowManager.h" alt="" coords="2916,83,3127,112"/>
+<area shape="rect" id="node86" href="$FullEraseConfirmationWindow_8h.htm" title="FullEraseConfirmationWindow.h" alt="" coords="1933,160,2155,189"/>
+<area shape="rect" id="node94" href="$OverlayWindowManager_8h.htm" title="OverlayWindowManager.h" alt="" coords="2004,83,2193,112"/>
+<area shape="rect" id="node101" href="$MenuWindowManager_8h.htm" title="MenuWindowManager.h" alt="" coords="3345,83,3519,112"/>
+<area shape="rect" id="node106" href="$TopLevelWindowManager_8h.htm" title="TopLevelWindowManager.h" alt="" coords="2695,83,2892,112"/>
+<area shape="rect" id="node111" href="$MetaKeyManager_8h.htm" title="MetaKeyManager.h" alt="" coords="5,160,152,189"/>
+<area shape="rect" id="node115" href="$CoreNaviManager_8h.htm" title="CoreNaviManager.h" alt="" coords="395,83,544,112"/>
+<area shape="rect" id="node123" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="3589,160,3715,189"/>
+<area shape="rect" id="node129" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="3587,237,3696,267"/>
+<area shape="rect" id="node132" href="$NativeAlertManager_8h.htm" title="NativeAlertManager.h" alt="" coords="3720,237,3877,267"/>
+<area shape="rect" id="node135" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="1671,83,1879,112"/>
+<area shape="rect" id="node143" href="$DockModeMenuManager_8h.htm" title="DockModeMenuManager.h" alt="" coords="3543,83,3735,112"/>
+<area shape="rect" id="node148" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="3841,160,3988,189"/>
+<area shape="rect" id="node151" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="3952,237,4099,267"/>
+<area shape="rect" id="node154" href="$ReticleItem_8h.htm" title="ReticleItem.h" alt="" coords="1757,160,1859,189"/>
+<area shape="rect" id="node160" href="$InputWindowManager_8h.htm" title="InputWindowManager.h" alt="" coords="2449,83,2620,112"/>
+<area shape="rect" id="node166" href="$MemoryMonitor_8h.htm" title="MemoryMonitor.h" alt="" coords="4063,160,4193,189"/>
+<area shape="rect" id="node8" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="979,160,1104,189"/>
+<area shape="rect" id="node11" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="835,237,973,267"/>
+<area shape="rect" id="node14" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1096,237,1208,267"/>
+<area shape="rect" id="node39" href="$QmlAlertWindow_8h.htm" title="QmlAlertWindow.h" alt="" coords="675,237,811,267"/>
+</map>

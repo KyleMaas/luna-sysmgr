@@ -1,0 +1,31 @@
+<map id="AlertWindow.h" name="AlertWindow.h">
+<area shape="rect" id="node3" href="$CardWindow_8cpp.htm" title="CardWindow.cpp" alt="" coords="803,237,931,267"/>
+<area shape="rect" id="node5" href="$DockModeWindow_8cpp.htm" title="DockModeWindow.cpp" alt="" coords="955,237,1120,267"/>
+<area shape="rect" id="node7" href="$LockWindow_8cpp.htm" title="LockWindow.cpp" alt="" coords="1144,237,1272,267"/>
+<area shape="rect" id="node9" href="$AlertWindow_8cpp.htm" title="AlertWindow.cpp" alt="" coords="1619,83,1744,112"/>
+<area shape="rect" id="node11" href="$DashboardWindowManager_8cpp.htm" title="DashboardWindowManager.cpp" alt="" coords="1296,237,1520,267"/>
+<area shape="rect" id="node13" href="$DashboardWindowManagerStates_8cpp.htm" title="DashboardWindowManagerStates.cpp" alt="" coords="1544,237,1808,267"/>
+<area shape="rect" id="node15" href="$VolumeControlAlertWindow_8h.htm" title="VolumeControlAlertWindow.h" alt="" coords="343,83,545,112"/>
+<area shape="rect" id="node28" href="$QmlAlertWindow_8h.htm" title="QmlAlertWindow.h" alt="" coords="1459,83,1595,112"/>
+<area shape="rect" id="node66" href="$WindowManagerMinimal_8cpp.htm" title="WindowManagerMinimal.cpp" alt="" coords="1768,83,1971,112"/>
+<area shape="rect" id="node68" href="$WebAppMgrProxy_8cpp.htm" title="WebAppMgrProxy.cpp" alt="" coords="1995,83,2157,112"/>
+<area shape="rect" id="node17" href="$NativeAlertManager_8h.htm" title="NativeAlertManager.h" alt="" coords="365,160,523,189"/>
+<area shape="rect" id="node23" href="$VolumeControlAlertWindow_8cpp.htm" title="VolumeControlAlertWindow.cpp" alt="" coords="5,237,224,267"/>
+<area shape="rect" id="node19" href="$WindowServer_8cpp.htm" title="WindowServer.cpp" alt="" coords="445,237,584,267"/>
+<area shape="rect" id="node21" href="$NativeAlertManager_8cpp.htm" title="NativeAlertManager.cpp" alt="" coords="248,237,421,267"/>
+<area shape="rect" id="node25" href="$WindowServerLuna_8cpp.htm" title="WindowServerLuna.cpp" alt="" coords="608,237,779,267"/>
+<area shape="rect" id="node30" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="2247,160,2401,189"/>
+<area shape="rect" id="node60" href="$QmlAlertWindow_8cpp.htm" title="QmlAlertWindow.cpp" alt="" coords="4456,237,4608,267"/>
+<area shape="rect" id="node32" href="$ApplicationManager_8cpp.htm" title="ApplicationManager.cpp" alt="" coords="4013,237,4187,267"/>
+<area shape="rect" id="node34" href="$ApplicationManagerService_8cpp.htm" title="ApplicationManagerService.cpp" alt="" coords="4211,237,4432,267"/>
+<area shape="rect" id="node36" href="$SystemUiController_8cpp.htm" title="SystemUiController.cpp" alt="" coords="1832,237,2000,267"/>
+<area shape="rect" id="node39" href="$CardHostWindow_8cpp.htm" title="CardHostWindow.cpp" alt="" coords="2024,237,2181,267"/>
+<area shape="rect" id="node42" href="$DockModeAppMenuContainer_8cpp.htm" title="DockModeAppMenuContainer.cpp" alt="" coords="2205,237,2443,267"/>
+<area shape="rect" id="node44" href="$DockModeMenuManager_8cpp.htm" title="DockModeMenuManager.cpp" alt="" coords="2467,237,2675,267"/>
+<area shape="rect" id="node46" href="$DockModePositionManager_8cpp.htm" title="DockModePositionManager.cpp" alt="" coords="2699,237,2920,267"/>
+<area shape="rect" id="node49" href="$DockModeWindowManager_8cpp.htm" title="DockModeWindowManager.cpp" alt="" coords="2944,237,3165,267"/>
+<area shape="rect" id="node51" href="$FullEraseConfirmationWindow_8cpp.htm" title="FullEraseConfirmationWindow.cpp" alt="" coords="3189,237,3424,267"/>
+<area shape="rect" id="node53" href="$dimensionsglobal_8cpp.htm" title="dimensionsglobal.cpp" alt="" coords="3448,237,3603,267"/>
+<area shape="rect" id="node56" href="$DashboardWindowContainer_8cpp.htm" title="DashboardWindowContainer.cpp" alt="" coords="3627,237,3856,267"/>
+<area shape="rect" id="node62" href="$StatusBar_8cpp.htm" title="StatusBar.cpp" alt="" coords="3880,237,3989,267"/>
+</map>

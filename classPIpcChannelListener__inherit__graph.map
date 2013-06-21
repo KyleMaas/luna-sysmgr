@@ -1,0 +1,15 @@
+<map id="PIpcChannelListener" name="PIpcChannelListener">
+<area shape="rect" id="node3" href="$classHostWindow.htm" title="HostWindow" alt="" coords="531,83,632,112"/>
+<area shape="rect" id="node25" href="$classIpcClientHost.htm" title="IpcClientHost" alt="" coords="739,83,845,112"/>
+<area shape="rect" id="node5" href="$classAlertWindow.htm" title="AlertWindow" alt="" coords="200,160,301,189"/>
+<area shape="rect" id="node11" href="$classCardWindow.htm" title="CardWindow" alt="" coords="385,160,487,189"/>
+<area shape="rect" id="node21" href="$classDashboardWindow.htm" title="DashboardWindow" alt="" coords="511,160,652,189"/>
+<area shape="rect" id="node23" href="$classMenuWindow.htm" title="MenuWindow" alt="" coords="676,160,783,189"/>
+<area shape="rect" id="node7" href="$classQmlAlertWindow.htm" title="QmlAlertWindow" alt="" coords="5,237,131,267"/>
+<area shape="rect" id="node9" href="$classVolumeControlAlertWindow.htm" title="VolumeControlAlertWindow" alt="" coords="155,237,347,267"/>
+<area shape="rect" id="node13" href="$classCardHostWindow.htm" title="CardHostWindow" alt="" coords="371,237,501,267"/>
+<area shape="rect" id="node17" href="$classDockModeWindow.htm" title="DockModeWindow" alt="" coords="529,237,668,267"/>
+<area shape="rect" id="node15" href="$classQtHostWindow.htm" title="QtHostWindow" alt="" coords="376,315,491,344"/>
+<area shape="rect" id="node19" href="$classDockModeClockWindow.htm" title="DockModeClockWindow" alt="" coords="515,315,688,344"/>
+<area shape="rect" id="node27" href="$classWebAppMgrProxy.htm" title="WebAppMgrProxy" alt="" coords="807,160,943,189"/>
+</map>

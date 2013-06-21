@@ -1,0 +1,19 @@
+<map id="DockModeAppMenuContainer.cpp" name="DockModeAppMenuContainer.cpp">
+<area shape="rect" id="node21" href="$Window_8h.htm" title="Window.h" alt="" coords="733,237,816,267"/>
+<area shape="rect" id="node34" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="1343,83,1497,112"/>
+<area shape="rect" id="node52" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="547,160,720,189"/>
+<area shape="rect" id="node59" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="275,237,384,267"/>
+<area shape="rect" id="node79" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2045,160,2139,189"/>
+<area shape="rect" id="node85" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="275,160,421,189"/>
+<area shape="rect" id="node95" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="2840,160,3048,189"/>
+<area shape="rect" id="node116" href="$DockModeLaunchPoint_8h.htm" title="DockModeLaunchPoint.h" alt="" coords="2744,83,2923,112"/>
+<area shape="rect" id="node124" href="$DockModeAppMenuContainer_8h.htm" title="DockModeAppMenuContainer.h" alt="" coords="2315,160,2536,189"/>
+<area shape="rect" id="node134" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="2611,160,2765,189"/>
+<area shape="rect" id="node144" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="1811,160,1920,189"/>
+<area shape="rect" id="node68" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="1216,160,1349,189"/>
+<area shape="rect" id="node73" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2116,237,2255,267"/>
+<area shape="rect" id="node92" href="$AnimationEquations_8h.htm" title="AnimationEquations.h" alt="" coords="1101,237,1259,267"/>
+<area shape="rect" id="node99" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="2892,237,3063,267"/>
+<area shape="rect" id="node102" href="$PtrArray_8h.htm" title="PtrArray.h" alt="" coords="2279,237,2364,267"/>
+<area shape="rect" id="node108" href="$SystemMenu_8h.htm" title="SystemMenu.h" alt="" coords="3137,237,3252,267"/>
+</map>

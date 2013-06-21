@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQEvent.htm" title="QEvent" alt="" coords="5,32,75,61"/>
+<area shape="rect" id="node3" href="$classIconCmdRequestEvent.htm" title="IconCmdRequestEvent" alt="" coords="124,5,289,35"/>
+<area shape="rect" id="node5" href="$classSysMgrGestureEvent.htm" title="SysMgrGestureEvent" alt="" coords="129,59,284,88"/>
+<area shape="rect" id="node7" href="$classFlickEvent.htm" title="FlickEvent" alt="" coords="379,32,464,61"/>
+<area shape="rect" id="node9" href="$classScreenEdgeFlickEvent.htm" title="ScreenEdgeFlickEvent" alt="" coords="340,85,503,115"/>
+</map>

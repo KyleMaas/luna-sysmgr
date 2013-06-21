@@ -1,0 +1,19 @@
+<map id="TopLevelWindowManager.cpp" name="TopLevelWindowManager.cpp">
+<area shape="rect" id="node13" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="168,160,315,189"/>
+<area shape="rect" id="node23" href="$TopLevelWindowManager_8h.htm" title="TopLevelWindowManager.h" alt="" coords="339,160,536,189"/>
+<area shape="rect" id="node33" href="$Window_8h.htm" title="Window.h" alt="" coords="3593,237,3676,267"/>
+<area shape="rect" id="node46" href="$LockWindow_8h.htm" title="LockWindow.h" alt="" coords="1021,83,1133,112"/>
+<area shape="rect" id="node72" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="2276,83,2401,112"/>
+<area shape="rect" id="node135" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="1115,160,1240,189"/>
+<area shape="rect" id="node142" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="3416,83,3571,112"/>
+<area shape="rect" id="node159" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="3445,160,3592,189"/>
+<area shape="rect" id="node20" href="$AnimationEquations_8h.htm" title="AnimationEquations.h" alt="" coords="120,237,277,267"/>
+<area shape="rect" id="node26" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="352,237,523,267"/>
+<area shape="rect" id="node54" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="3176,160,3269,189"/>
+<area shape="rect" id="node60" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2869,237,3008,267"/>
+<area shape="rect" id="node78" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="1315,160,1451,189"/>
+<area shape="rect" id="node89" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="1475,160,1595,189"/>
+<area shape="rect" id="node99" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="2008,160,2120,189"/>
+<area shape="rect" id="node104" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="1781,160,1933,189"/>
+<area shape="rect" id="node111" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="2648,237,2744,267"/>
+</map>

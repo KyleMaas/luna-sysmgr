@@ -1,0 +1,27 @@
+<map id="SystemUiController.cpp" name="SystemUiController.cpp">
+<area shape="rect" id="node13" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2232,160,2387,189"/>
+<area shape="rect" id="node59" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="236,237,383,267"/>
+<area shape="rect" id="node69" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="748,237,905,267"/>
+<area shape="rect" id="node78" href="$ApplicationInstaller_8h.htm" title="ApplicationInstaller.h" alt="" coords="572,237,724,267"/>
+<area shape="rect" id="node87" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="2461,83,2576,112"/>
+<area shape="rect" id="node94" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="3828,237,3964,267"/>
+<area shape="rect" id="node102" href="$MetaKeyManager_8h.htm" title="MetaKeyManager.h" alt="" coords="4089,237,4236,267"/>
+<area shape="rect" id="node107" href="$Preferences_8h.htm" title="Preferences.h" alt="" coords="3495,237,3604,267"/>
+<area shape="rect" id="node114" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="3679,237,3804,267"/>
+<area shape="rect" id="node119" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="3092,160,3217,189"/>
+<area shape="rect" id="node128" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="2548,237,2695,267"/>
+<area shape="rect" id="node133" href="$CoreNaviManager_8h.htm" title="CoreNaviManager.h" alt="" coords="3709,83,3859,112"/>
+<area shape="rect" id="node141" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="3083,83,3237,112"/>
+<area shape="rect" id="node150" href="$OverlayWindowManager_8h.htm" title="OverlayWindowManager.h" alt="" coords="2183,237,2372,267"/>
+<area shape="rect" id="node156" href="$IMEController_8h.htm" title="IMEController.h" alt="" coords="3343,160,3463,189"/>
+<area shape="rect" id="node159" href="$ScreenEdgeFlickGesture_8h.htm" title="ScreenEdgeFlickGesture.h" alt="" coords="4191,160,4380,189"/>
+<area shape="rect" id="node162" href="$SoundPlayerPool_8h.htm" title="SoundPlayerPool.h" alt="" coords="407,237,548,267"/>
+<area shape="rect" id="node167" href="$DashboardWindowManager_8h.htm" title="DashboardWindowManager.h" alt="" coords="929,237,1137,267"/>
+<area shape="rect" id="node175" href="$StatusBarServicesConnector_8h.htm" title="StatusBarServicesConnector.h" alt="" coords="2855,160,3068,189"/>
+<area shape="rect" id="node32" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1313,237,1487,267"/>
+<area shape="rect" id="node40" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="93,315,227,344"/>
+<area shape="rect" id="node44" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2868,315,3007,344"/>
+<area shape="rect" id="node47" href="$Window_8h.htm" title="Window.h" alt="" coords="1315,315,1397,344"/>
+<area shape="rect" id="node54" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="2769,237,2863,267"/>
+<area shape="rect" id="node66" href="$AnimationEquations_8h.htm" title="AnimationEquations.h" alt="" coords="403,315,560,344"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="CardWindow" name="CardWindow">
+<area shape="rect" id="node2" href="$classHostWindow.htm" title="HostWindow" alt="" coords="1292,1179,1393,1208"/>
+<area shape="rect" id="node4" href="$classWindow.htm" title="Window" alt="" coords="759,268,831,297"/>
+<area shape="rect" id="node6" href="$classQGraphicsObject.htm" title="QGraphicsObject" alt="" coords="269,5,400,35"/>
+<area shape="rect" id="node8" href="$classApplicationDescription.htm" title="ApplicationDescription" alt="" coords="253,59,416,88"/>
+<area shape="rect" id="node10" href="$classApplicationDescriptionBase.htm" title="ApplicationDescriptionBase" alt="" coords="5,59,200,88"/>
+<area shape="rect" id="node20" href="$classint.htm" title="int" alt="" coords="316,528,353,557"/>
+<area shape="rect" id="node32" href="$classIpcClientHost.htm" title="IpcClientHost" alt="" coords="741,1256,848,1285"/>
+<area shape="rect" id="node67" href="$structCardWindow_1_1ModalWindowPlacementInfo.htm" title="CardWindow::ModalWindowPlacementInfo" alt="" coords="651,932,939,961"/>
+<area shape="rect" id="node26" href="$classPIpcChannelListener.htm" title="PIpcChannelListener" alt="" coords="257,1219,412,1248"/>
+<area shape="rect" id="node28" href="$classInputClient.htm" title="InputClient" alt="" coords="751,1360,839,1389"/>
+<area shape="rect" id="node30" href="$classHostWindowData.htm" title="HostWindowData" alt="" coords="729,1413,860,1443"/>
+<area shape="rect" id="node34" href="$classQObject.htm" title="QObject" alt="" coords="299,1283,371,1312"/>
+<area shape="rect" id="node93" href="$classCardLoading.htm" title="CardLoading" alt="" coords="1027,1305,1131,1335"/>
+<area shape="rect" id="node60" href="$structCardWindow_1_1Position.htm" title="CardWindow::Position" alt="" coords="1264,1617,1421,1647"/>
+</map>

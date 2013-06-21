@@ -1,0 +1,27 @@
+<map id="WindowServerMinimal.cpp" name="WindowServerMinimal.cpp">
+<area shape="rect" id="node5" href="$WindowServerMinimal_8h.htm" title="WindowServerMinimal.h" alt="" coords="1197,83,1371,112"/>
+<area shape="rect" id="node69" href="$CoreNaviManager_8h.htm" title="CoreNaviManager.h" alt="" coords="364,83,513,112"/>
+<area shape="rect" id="node78" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2389,160,2544,189"/>
+<area shape="rect" id="node115" href="$MetaKeyManager_8h.htm" title="MetaKeyManager.h" alt="" coords="195,237,341,267"/>
+<area shape="rect" id="node121" href="$WindowManagerMinimal_8h.htm" title="WindowManagerMinimal.h" alt="" coords="3116,160,3303,189"/>
+<area shape="rect" id="node134" href="$InputWindowManager_8h.htm" title="InputWindowManager.h" alt="" coords="4451,237,4621,267"/>
+<area shape="rect" id="node143" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="3623,160,3769,189"/>
+<area shape="rect" id="node8" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1221,160,1347,189"/>
+<area shape="rect" id="node15" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="416,237,552,267"/>
+<area shape="rect" id="node28" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="1224,237,1344,267"/>
+<area shape="rect" id="node35" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2155,315,2293,344"/>
+<area shape="rect" id="node38" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1968,237,2080,267"/>
+<area shape="rect" id="node50" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="1640,237,1792,267"/>
+<area shape="rect" id="node56" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="1368,237,1464,267"/>
+<area shape="rect" id="node20" href="$AmbientLightSensor_8h.htm" title="AmbientLightSensor.h" alt="" coords="93,315,251,344"/>
+<area shape="rect" id="node41" href="$Window_8h.htm" title="Window.h" alt="" coords="3141,315,3224,344"/>
+<area shape="rect" id="node74" href="$CoreNaviLeds_8h.htm" title="CoreNaviLeds.h" alt="" coords="144,160,267,189"/>
+<area shape="rect" id="node94" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="1172,315,1345,344"/>
+<area shape="rect" id="node100" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="1471,315,1604,344"/>
+<area shape="rect" id="node106" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="3053,237,3147,267"/>
+<area shape="rect" id="node126" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="3741,315,3912,344"/>
+<area shape="rect" id="node129" href="$GraphicsItemContainer_8h.htm" title="GraphicsItemContainer.h" alt="" coords="3299,315,3477,344"/>
+<area shape="rect" id="node137" href="$IMEManager_8h.htm" title="IMEManager.h" alt="" coords="4353,315,4468,344"/>
+<area shape="rect" id="node139" href="$IMEView_8h.htm" title="IMEView.h" alt="" coords="4492,315,4580,344"/>
+<area shape="rect" id="node149" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="3552,237,3669,267"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="WebAppMgrProxy.cpp" name="WebAppMgrProxy.cpp">
+<area shape="rect" id="node7" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="1195,160,1342,189"/>
+<area shape="rect" id="node22" href="$Window_8h.htm" title="Window.h" alt="" coords="978,315,1061,344"/>
+<area shape="rect" id="node58" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="2835,160,2950,189"/>
+<area shape="rect" id="node69" href="$HostWindowData_8h.htm" title="HostWindowData.h" alt="" coords="71,315,213,344"/>
+<area shape="rect" id="node77" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="3554,237,3709,267"/>
+<area shape="rect" id="node81" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="4177,315,4350,344"/>
+<area shape="rect" id="node97" href="$DockModeWindow_8h.htm" title="DockModeWindow.h" alt="" coords="2463,83,2613,112"/>
+<area shape="rect" id="node103" href="$EventThrottler_8h.htm" title="EventThrottler.h" alt="" coords="2106,237,2229,267"/>
+<area shape="rect" id="node107" href="$EventThrottlerIme_8h.htm" title="EventThrottlerIme.h" alt="" coords="2354,237,2501,267"/>
+<area shape="rect" id="node111" href="$AlertWindow_8h.htm" title="AlertWindow.h" alt="" coords="397,160,509,189"/>
+<area shape="rect" id="node117" href="$DashboardWindow_8h.htm" title="DashboardWindow.h" alt="" coords="1434,160,1586,189"/>
+<area shape="rect" id="node122" href="$MenuWindow_8h.htm" title="MenuWindow.h" alt="" coords="249,160,366,189"/>
+<area shape="rect" id="node127" href="$IpcServer_8h.htm" title="IpcServer.h" alt="" coords="4217,237,4310,267"/>
+<area shape="rect" id="node133" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1854,160,1979,189"/>
+<area shape="rect" id="node143" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="3579,315,3737,344"/>
+<area shape="rect" id="node147" href="$CoreNaviManager_8h.htm" title="CoreNaviManager.h" alt="" coords="3557,160,3706,189"/>
+<area shape="rect" id="node151" href="$BannerMessageHandler_8h.htm" title="BannerMessageHandler.h" alt="" coords="3811,315,3998,344"/>
+<area shape="rect" id="node158" href="$MemoryMonitor_8h.htm" title="MemoryMonitor.h" alt="" coords="4022,315,4153,344"/>
+<area shape="rect" id="node14" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="1197,237,1314,267"/>
+<area shape="rect" id="node64" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1389,237,1501,267"/>
+</map>

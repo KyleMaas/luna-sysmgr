@@ -1,0 +1,20 @@
+<map id="DashboardWindowContainer.cpp" name="DashboardWindowContainer.cpp">
+<area shape="rect" id="node5" href="$DashboardWindowContainer_8h.htm" title="DashboardWindowContainer.h" alt="" coords="309,160,522,189"/>
+<area shape="rect" id="node37" href="$DashboardWindow_8h.htm" title="DashboardWindow.h" alt="" coords="2098,83,2250,112"/>
+<area shape="rect" id="node52" href="$DashboardWindowManager_8h.htm" title="DashboardWindowManager.h" alt="" coords="1716,160,1924,189"/>
+<area shape="rect" id="node74" href="$FlickGesture_8h.htm" title="FlickGesture.h" alt="" coords="3916,83,4025,112"/>
+<area shape="rect" id="node85" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2769,83,2924,112"/>
+<area shape="rect" id="node124" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="2434,83,2581,112"/>
+<area shape="rect" id="node129" href="$AnimationSettings_8h.htm" title="AnimationSettings.h" alt="" coords="1948,160,2094,189"/>
+<area shape="rect" id="node134" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="1012,160,1220,189"/>
+<area shape="rect" id="node144" href="$WindowServerLuna_8h.htm" title="WindowServerLuna.h" alt="" coords="1116,83,1270,112"/>
+<area shape="rect" id="node152" href="$CardDropShadowEffect_8h.htm" title="CardDropShadowEffect.h" alt="" coords="2278,160,2460,189"/>
+<area shape="rect" id="node20" href="$GraphicsItemContainer_8h.htm" title="GraphicsItemContainer.h" alt="" coords="784,237,962,267"/>
+<area shape="rect" id="node25" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="1088,237,1226,267"/>
+<area shape="rect" id="node42" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="2118,160,2230,189"/>
+<area shape="rect" id="node45" href="$Window_8h.htm" title="Window.h" alt="" coords="2133,237,2216,267"/>
+<area shape="rect" id="node58" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="1424,237,1594,267"/>
+<area shape="rect" id="node102" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="3617,160,3790,189"/>
+<area shape="rect" id="node108" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="2780,160,2913,189"/>
+<area shape="rect" id="node114" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="1548,160,1641,189"/>
+</map>

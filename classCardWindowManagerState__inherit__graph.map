@@ -1,0 +1,9 @@
+<map id="CardWindowManagerState" name="CardWindowManagerState">
+<area shape="rect" id="node5" href="$classFocusState.htm" title="FocusState" alt="" coords="5,160,96,189"/>
+<area shape="rect" id="node7" href="$classLoadingState.htm" title="LoadingState" alt="" coords="120,160,227,189"/>
+<area shape="rect" id="node9" href="$classMaximizeState.htm" title="MaximizeState" alt="" coords="251,160,365,189"/>
+<area shape="rect" id="node11" href="$classMinimizeState.htm" title="MinimizeState" alt="" coords="389,160,499,189"/>
+<area shape="rect" id="node13" href="$classPreparingState.htm" title="PreparingState" alt="" coords="523,160,640,189"/>
+<area shape="rect" id="node15" href="$classReorderState.htm" title="ReorderState" alt="" coords="664,160,771,189"/>
+<area shape="rect" id="node2" href="$classQState.htm" title="QState" alt="" coords="343,5,409,35"/>
+</map>

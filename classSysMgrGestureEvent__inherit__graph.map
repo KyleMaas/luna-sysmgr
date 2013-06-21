@@ -1,0 +1,5 @@
+<map id="SysMgrGestureEvent" name="SysMgrGestureEvent">
+<area shape="rect" id="node5" href="$classFlickEvent.htm" title="FlickEvent" alt="" coords="5,160,91,189"/>
+<area shape="rect" id="node7" href="$classScreenEdgeFlickEvent.htm" title="ScreenEdgeFlickEvent" alt="" coords="115,160,277,189"/>
+<area shape="rect" id="node2" href="$classQEvent.htm" title="QEvent" alt="" coords="87,5,156,35"/>
+</map>

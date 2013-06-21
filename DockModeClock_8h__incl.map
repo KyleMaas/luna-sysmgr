@@ -1,0 +1,16 @@
+<map id="DockModeClock.h" name="DockModeClock.h">
+<area shape="rect" id="node5" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="288,392,397,421"/>
+<area shape="rect" id="node16" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="468,315,641,344"/>
+<area shape="rect" id="node41" href="$DockModeWindow_8h.htm" title="DockModeWindow.h" alt="" coords="2244,83,2393,112"/>
+<area shape="rect" id="node28" href="$CmdResourceHandlers_8h.htm" title="CmdResourceHandlers.h" alt="" coords="35,392,213,421"/>
+<area shape="rect" id="node46" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="1600,160,1715,189"/>
+<area shape="rect" id="node101" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="2408,237,2616,267"/>
+<area shape="rect" id="node52" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1149,315,1261,344"/>
+<area shape="rect" id="node64" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="653,237,808,267"/>
+<area shape="rect" id="node96" href="$CardRoundedCornerShaderStage_8h.htm" title="CardRoundedCornerShaderStage.h" alt="" coords="1424,392,1672,421"/>
+<area shape="rect" id="node55" href="$Window_8h.htm" title="Window.h" alt="" coords="941,392,1024,421"/>
+<area shape="rect" id="node70" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="1309,315,1448,344"/>
+<area shape="rect" id="node105" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="2256,315,2427,344"/>
+<area shape="rect" id="node109" href="$PtrArray_8h.htm" title="PtrArray.h" alt="" coords="1213,392,1299,421"/>
+<area shape="rect" id="node115" href="$SystemMenu_8h.htm" title="SystemMenu.h" alt="" coords="2501,315,2616,344"/>
+</map>

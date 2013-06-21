@@ -1,0 +1,6 @@
+<map id="QEvent" name="QEvent">
+<area shape="rect" id="node3" href="$classIconCmdRequestEvent.htm" title="IconCmdRequestEvent" alt="" coords="5,83,171,112"/>
+<area shape="rect" id="node5" href="$classSysMgrGestureEvent.htm" title="SysMgrGestureEvent" alt="" coords="195,83,349,112"/>
+<area shape="rect" id="node7" href="$classFlickEvent.htm" title="FlickEvent" alt="" coords="155,160,240,189"/>
+<area shape="rect" id="node9" href="$classScreenEdgeFlickEvent.htm" title="ScreenEdgeFlickEvent" alt="" coords="264,160,427,189"/>
+</map>

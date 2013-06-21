@@ -1,0 +1,18 @@
+<map id="IpcServer.cpp" name="IpcServer.cpp">
+<area shape="rect" id="node5" href="$IpcServer_8h.htm" title="IpcServer.h" alt="" coords="313,160,407,189"/>
+<area shape="rect" id="node47" href="$IpcClientHost_8h.htm" title="IpcClientHost.h" alt="" coords="1855,160,1972,189"/>
+<area shape="rect" id="node65" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="2337,83,2484,112"/>
+<area shape="rect" id="node84" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1603,83,1728,112"/>
+<area shape="rect" id="node130" href="$ApplicationManager_8h.htm" title="ApplicationManager.h" alt="" coords="431,160,588,189"/>
+<area shape="rect" id="node138" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="961,160,1087,189"/>
+<area shape="rect" id="node143" href="$MemoryMonitor_8h.htm" title="MemoryMonitor.h" alt="" coords="807,160,937,189"/>
+<area shape="rect" id="node149" href="$CpuAffinity_8h.htm" title="CpuAffinity.h" alt="" coords="3679,83,3777,112"/>
+<area shape="rect" id="node18" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="263,237,436,267"/>
+<area shape="rect" id="node56" href="$Window_8h.htm" title="Window.h" alt="" coords="2007,237,2089,267"/>
+<area shape="rect" id="node89" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="1492,160,1628,189"/>
+<area shape="rect" id="node95" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="663,160,783,189"/>
+<area shape="rect" id="node102" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="1591,237,1729,267"/>
+<area shape="rect" id="node105" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="2047,160,2159,189"/>
+<area shape="rect" id="node111" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="2535,237,2687,267"/>
+<area shape="rect" id="node115" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="2257,160,2353,189"/>
+</map>

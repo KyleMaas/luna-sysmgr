@@ -1,0 +1,20 @@
+<map id="DockModeLaunchPoint.cpp" name="DockModeLaunchPoint.cpp">
+<area shape="rect" id="node13" href="$DockModeWindowManager_8h.htm" title="DockModeWindowManager.h" alt="" coords="2885,160,3093,189"/>
+<area shape="rect" id="node53" href="$DockModePositionManager_8h.htm" title="DockModePositionManager.h" alt="" coords="112,237,320,267"/>
+<area shape="rect" id="node59" href="$Window_8h.htm" title="Window.h" alt="" coords="824,237,907,267"/>
+<area shape="rect" id="node71" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="1583,83,1708,112"/>
+<area shape="rect" id="node119" href="$DockModeWindow_8h.htm" title="DockModeWindow.h" alt="" coords="3153,83,3303,112"/>
+<area shape="rect" id="node124" href="$LaunchPoint_8h.htm" title="LaunchPoint.h" alt="" coords="395,237,504,267"/>
+<area shape="rect" id="node130" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="480,160,653,189"/>
+<area shape="rect" id="node138" href="$DockModeLaunchPoint_8h.htm" title="DockModeLaunchPoint.h" alt="" coords="2900,83,3079,112"/>
+<area shape="rect" id="node150" href="$CardDropShadowEffect_8h.htm" title="CardDropShadowEffect.h" alt="" coords="981,237,1163,267"/>
+<area shape="rect" id="node18" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="2904,237,3075,267"/>
+<area shape="rect" id="node21" href="$PtrArray_8h.htm" title="PtrArray.h" alt="" coords="2488,237,2573,267"/>
+<area shape="rect" id="node25" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="1904,237,2043,267"/>
+<area shape="rect" id="node30" href="$SystemMenu_8h.htm" title="SystemMenu.h" alt="" coords="3149,237,3264,267"/>
+<area shape="rect" id="node77" href="$DisplayManager_8h.htm" title="DisplayManager.h" alt="" coords="1472,160,1608,189"/>
+<area shape="rect" id="node82" href="$InputManager_8h.htm" title="InputManager.h" alt="" coords="680,237,800,267"/>
+<area shape="rect" id="node88" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="1261,160,1373,189"/>
+<area shape="rect" id="node93" href="$ProgressAnimation_8h.htm" title="ProgressAnimation.h" alt="" coords="1733,160,1885,189"/>
+<area shape="rect" id="node99" href="$TouchPlot_8h.htm" title="TouchPlot.h" alt="" coords="1536,237,1632,267"/>
+</map>

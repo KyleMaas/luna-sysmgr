@@ -1,0 +1,6 @@
+<map id="QGesture" name="QGesture">
+<area shape="rect" id="node3" href="$classFlickGesture.htm" title="FlickGesture" alt="" coords="5,83,104,112"/>
+<area shape="rect" id="node5" href="$classScreenEdgeFlickGesture.htm" title="ScreenEdgeFlickGesture" alt="" coords="128,83,307,112"/>
+<area shape="rect" id="node7" href="$classSingleClickGesture.htm" title="SingleClickGesture" alt="" coords="331,83,472,112"/>
+<area shape="rect" id="node9" href="$classWebosTapAndHoldGesture.htm" title="WebosTapAndHoldGesture" alt="" coords="496,83,691,112"/>
+</map>

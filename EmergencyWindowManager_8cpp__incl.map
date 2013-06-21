@@ -1,0 +1,22 @@
+<map id="EmergencyWindowManager.cpp" name="EmergencyWindowManager.cpp">
+<area shape="rect" id="node5" href="$EmergencyWindowManager_8h.htm" title="EmergencyWindowManager.h" alt="" coords="440,83,651,112"/>
+<area shape="rect" id="node25" href="$CardWindow_8h.htm" title="CardWindow.h" alt="" coords="1709,83,1824,112"/>
+<area shape="rect" id="node43" href="$SystemUiController_8h.htm" title="SystemUiController.h" alt="" coords="2427,160,2581,189"/>
+<area shape="rect" id="node104" href="$RoundedCorners_8h.htm" title="RoundedCorners.h" alt="" coords="3044,160,3185,189"/>
+<area shape="rect" id="node111" href="$SystemService_8h.htm" title="SystemService.h" alt="" coords="3464,160,3589,189"/>
+<area shape="rect" id="node117" href="$WebAppMgrProxy_8h.htm" title="WebAppMgrProxy.h" alt="" coords="2072,160,2219,189"/>
+<area shape="rect" id="node122" href="$WindowServer_8h.htm" title="WindowServer.h" alt="" coords="3315,160,3440,189"/>
+<area shape="rect" id="node138" href="$FlickGesture_8h.htm" title="FlickGesture.h" alt="" coords="3988,160,4097,189"/>
+<area shape="rect" id="node142" href="$IMEController_8h.htm" title="IMEController.h" alt="" coords="3504,83,3624,112"/>
+<area shape="rect" id="node145" href="$WebosTapAndHoldGesture_8h.htm" title="WebosTapAndHoldGesture.h" alt="" coords="3824,83,4029,112"/>
+<area shape="rect" id="node148" href="$SingleClickGesture_8h.htm" title="SingleClickGesture.h" alt="" coords="3648,83,3800,112"/>
+<area shape="rect" id="node8" href="$WindowManagerBase_8h.htm" title="WindowManagerBase.h" alt="" coords="547,160,717,189"/>
+<area shape="rect" id="node13" href="$GraphicsItemContainer_8h.htm" title="GraphicsItemContainer.h" alt="" coords="5,160,184,189"/>
+<area shape="rect" id="node32" href="$HostWindow_8h.htm" title="HostWindow.h" alt="" coords="3160,237,3272,267"/>
+<area shape="rect" id="node99" href="$CardRoundedCornerShaderStage_8h.htm" title="CardRoundedCornerShaderStage.h" alt="" coords="1067,315,1315,344"/>
+<area shape="rect" id="node35" href="$Window_8h.htm" title="Window.h" alt="" coords="2857,315,2940,344"/>
+<area shape="rect" id="node61" href="$ApplicationDescription_8h.htm" title="ApplicationDescription.h" alt="" coords="3065,315,3239,344"/>
+<area shape="rect" id="node66" href="$SuspendBlocker_8h.htm" title="SuspendBlocker.h" alt="" coords="2952,237,3085,267"/>
+<area shape="rect" id="node71" href="$VariantAnimation_8h.htm" title="VariantAnimation.h" alt="" coords="2044,315,2183,344"/>
+<area shape="rect" id="node77" href="$StatusBar_8h.htm" title="StatusBar.h" alt="" coords="1917,237,2011,267"/>
+</map>
